@@ -1,4 +1,6 @@
 {
     "keyboard.touchbar.enabled": false,
-    "editor.gotoLocation.multipleTypeDefinitions": "goto"
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    "editor.tabSize": 2,
+    "workbench.tree.indent": 2
 }
